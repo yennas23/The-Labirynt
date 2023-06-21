@@ -19,3 +19,9 @@ Access the full project:
 # Itch.io
 
 Download The Labyrinth on: https://timbolang.itch.io/the-labyrinth
+
+# Tim Bolang Members
+Fadly Ramdhani         (6706213127)
+Muhammad Azra          (6706213046)
+Ratu Yuri Meissy       (6706213083)
+Yenna Sopia Situmorang (6706213023)
