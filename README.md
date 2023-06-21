@@ -8,3 +8,7 @@ Use a VR device, Oculus Quest 2.
 Use the joystick on the VR controller to move along the maze corridors.
 Use your head and move the VR headset to aim the laser weapon at the zombie.
 If the laser touches a zombie, it will be hit.
+
+# Trailer The Labyrinth
+
+Watch the trailer on Youtube: https://youtu.be/2D39-z3QAXU
