@@ -1,18 +1,18 @@
 # The Labyrinth
 
-## About The Game ##
+## About The Labyrinth ##
 The Labyrinth is a game in the action shooter genre that uses VR. The Labyrinth presents a tense challenge in a maze filled with hordes of bloodthirsty zombies. You must escape and find a way out of from maze!
 
 ## How to Play The Labyrinth? ##
 * Use a VR device, Oculus Quest 2.
-* Use the joystick on the VR controller to move along the maze corridors.
+* Use the left thumbstick to move along the maze corridors.
 * Use your head and move the VR headset to aim the laser weapon at the zombie.
 
 ## Trailer The Labyrinth ##
 Watch the trailer on Youtube: https://youtu.be/2D39-z3QAXU
 
 ## Project The Labyrinth ##
-Access the entire project: 
+Access the entire project: https://telkomuniversityofficial-my.sharepoint.com/:u:/g/personal/amirhf_telkomuniversity_ac_id/EfGPscruy2hHiuHkbeVM09QBegh__4nvuLU9TGd0dfowhA?e=6qoiyn
 
 ## Itch.io  ##
 Download The Labyrinth at: https://timbolang.itch.io/the-labyrinth
