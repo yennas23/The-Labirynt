@@ -4,10 +4,9 @@ The Labyrinth is a game that has an action shooter genre that uses VR. The Labyr
 
 # How to Play The Labyrinth?
 
-Use a VR device, Oculus Quest 2.
-Use the joystick on the VR controller to move along the maze corridors.
-Use your head and move the VR headset to aim the laser weapon at the zombie.
-If the laser touches a zombie, it will be hit.
+* Use a VR device, Oculus Quest 2.
+* Use the joystick on the VR controller to move along the maze corridors.
+* Use your head and move the VR headset to aim the laser weapon at the zombie.
 
 # Trailer The Labyrinth
 
