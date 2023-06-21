@@ -14,7 +14,7 @@ Watch the trailer on Youtube: https://youtu.be/2D39-z3QAXU
 
 # Project The Labyrinth
 
-Access the full project: https://telkomuniversityofficial-my.sharepoint.com/:u:/g/personal/amirhf_telkomuniversity_ac_id/ERf57fgAXi9Pp5d59h3uN8kB0kodR64ji3ut669KXsaqHw?e=wZp8Qs
+Access the full project: 
 
 # Itch.io
 
